@@ -1,1 +1,1 @@
-# This repo is for accessment submission of PS.
+# This repo is for assessment submission of PS.
